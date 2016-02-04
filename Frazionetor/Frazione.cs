@@ -7,10 +7,10 @@ namespace Frazionetor
 		private long numeratore = 1;
 		private long denominatore = 1;
 
-		public Frazione (long num, long den)
+		public Frazione (long n, long d)
 		{
-			numeratore = num;
-			denominatore = den;
+			numeratore = n;
+			denominatore = d;
 		}
 
 		public void Semplifica ()
