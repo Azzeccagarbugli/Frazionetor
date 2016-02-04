@@ -13,6 +13,7 @@ namespace Frazionetor
 			Frazione Fraz;
 
 			do {
+				long d, n;
 				Console.ForegroundColor = ConsoleColor.Cyan;
 				Console.WriteLine ("\n _____ ____      _     ________ ___  _   _ _____ _____ ___  ____     ___   _ \n|  ___|  _ \\    / \\   |__  /_ _/ _ \\| \\ | | ____|_   _/ _ \\|  _ \\   / _ \\ / |\n| |_  | |_) |  / _ \\    / / | | | | |  \\| |  _|   | || | | | |_) | | | | || |\n|  _| |  _ <  / ___ \\  / /_ | | |_| | |\\  | |___  | || |_| |  _ <  | |_| || |\n|_|   |_| \\_\\/_/   \\_\\/____|___\\___/|_| \\_|_____| |_| \\___/|_| \\_\\  \\___(_)_|\n                                                                             \n\n");
 				Console.ForegroundColor = ConsoleColor.White;
@@ -20,7 +21,7 @@ namespace Frazionetor
 				Console.WriteLine ("Inserisci il numeratore: ");
 				try
 				{
-					long n = int.Parse (Console.ReadLine ());
+					n = int.Parse (Console.ReadLine ());
 				}
 				catch
 				{
@@ -30,7 +31,7 @@ namespace Frazionetor
 				Console.WriteLine ("Inserisci il denominatore: ");
 				try
 				{
-					long d = int.Parse (Console.ReadLine ());
+					d = int.Parse (Console.ReadLine ());
 				}
 				catch
 				{
