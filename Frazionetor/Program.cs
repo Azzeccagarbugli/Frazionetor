@@ -9,8 +9,9 @@ namespace Frazionetor
 			Console.Title = "FRAZIONETOR 0.1";
 
 			//Console.SetWindowSize(45, 14);
-
-			Frazione Fraz;
+                        //SITO WEB PER COMPORRE TITOLO CON CARATTERI ASCII: http://www.kammerl.de/ascii/AsciiSignature.php
+			
+                        Frazione Fraz;
 
 			do {
 				long d, n;
