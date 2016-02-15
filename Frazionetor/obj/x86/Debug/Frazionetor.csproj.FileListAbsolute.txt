@@ -1,5 +1,0 @@
-C:\Users\Alibabà\Desktop\C Sharp\Frazionetor\Frazionetor\bin\Debug\Frazionetor.exe
-C:\Users\Alibabà\Desktop\C Sharp\Frazionetor\Frazionetor\bin\Debug\Frazionetor.pdb
-C:\Users\Alibabà\Desktop\C Sharp\Frazionetor\Frazionetor\obj\x86\Debug\Frazionetor.csprojResolveAssemblyReference.cache
-C:\Users\Alibabà\Desktop\C Sharp\Frazionetor\Frazionetor\obj\x86\Debug\Frazionetor.exe
-C:\Users\Alibabà\Desktop\C Sharp\Frazionetor\Frazionetor\obj\x86\Debug\Frazionetor.pdb
