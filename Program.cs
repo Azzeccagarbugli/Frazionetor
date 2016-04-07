@@ -6,7 +6,7 @@ namespace Frazionetor
 	{
 		public static void Main (string[] args)
 		{
-			Console.Title = "FRAZIONETOR 0.1";
+			Console.Title = "FRAZIONETOR";
 
 			//Console.SetWindowSize(45, 14);
                         //SITO WEB PER COMPORRE TITOLO CON CARATTERI ASCII: http://www.kammerl.de/ascii/AsciiSignature.php
@@ -41,7 +41,7 @@ namespace Frazionetor
 				Fraz = new Frazione (n, d);
 				Fraz.Semplifica ();
 				Console.ForegroundColor = ConsoleColor.DarkYellow;
-				Console.WriteLine("Premi ENTER per un'altra semplificazione...\n");
+				Console.WriteLine("Premi il tasto ENTER per un'altra semplificazione...\n");
 				Console.ReadKey();
 				Console.ForegroundColor = ConsoleColor.White;
 				Console.Clear();
