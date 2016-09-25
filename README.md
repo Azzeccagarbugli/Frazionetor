@@ -1,2 +1,2 @@
-# Frazionetor 0.1
+# Frazionetor
 Strumento in grado di semplificare le Frazioni
